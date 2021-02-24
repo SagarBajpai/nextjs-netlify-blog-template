@@ -11,7 +11,7 @@ export default function Index() {
       <OpenGraphMeta url={"/"} />
       <TwitterCardMeta url={"/"} />
       <div className="container">
-        <div>
+        <div classname="content">
           <h1>
             Hi, This is Sagar here<span className="fancy">.</span>
           </h1>
@@ -27,6 +27,12 @@ export default function Index() {
           justify-content: center;
           flex: 1 1 auto;
           padding: 0 1.5rem;
+        }
+        .content {
+          display: flex;
+          flex-direction: column;
+          flex-wrap: wrap;
+          max-width: 70vw;
         }
         h1 {
           font-size: 2.5rem;
