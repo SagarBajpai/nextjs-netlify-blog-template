@@ -1,19 +1,15 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Seize The Day...",
+  "site_description": "I went to the woods because I wished to live deliberately, I wanted to live deep and suck out all the marrow of life. To put to rout all that was not life, and not, when I came to die, discover that I had not lived.",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
+    "Sagar",
+    "Developer",
     {
       "keyword": "React"
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@SagarBajpai_",
+  "github_account": "SagarBajpai"
 }
